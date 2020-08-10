@@ -1,4 +1,4 @@
-## this is a discord bot temlate in tyescript 
+## this is a discord bot temlate in typescript 
 # useing the bot 
 1. run the ``npm i ``
 2. edit the config.ex.ts to config.ts in the src 
